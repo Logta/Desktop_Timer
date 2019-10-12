@@ -1,0 +1,11 @@
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\bin\Debug\DesktopTimer.exe.config
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\bin\Debug\DesktopTimer.exe
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\bin\Debug\DesktopTimer.pdb
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.csprojAssemblyReference.cache
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.Form1.resources
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.Properties.Resources.resources
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.SettingForm.resources
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.csproj.GenerateResource.cache
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.csproj.CoreCompileInputs.cache
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.exe
+C:\Users\logti\source\repos\DesktopTimer\DesktopTimer\obj\Debug\DesktopTimer.pdb
